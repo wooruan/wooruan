@@ -1,54 +1,34 @@
+# Olá, eu sou o Pedro Ruan 👋
 
-## Olá 👋
----
+Atualmente cursando **Engenharia de Software**. Em busca de aprender coisas novas e melhorar minhas habilidades em desenvolvimento Backend, Frontend, Fullstack e Inteligência Artificial.
 
-### 🚀 Sobre mim
-
-- 🎓 Cursando [Engenharia de Software]
-- 💻 Desenvolvedor com foco em [Frontend | Backend | Fullstack | Mobile | IA | etc.]
-- 🧠 Curioso por natureza, sempre aprendendo algo novo
-- 🌍 Localização: Brasília, DF, Brasil
+ **Localização:** Brasília, DF, Brasil  
+ **Contato:** pedroruanoliveiramoura@gmail.com  
 
 ---
 
-### 🔧 Tecnologias e Ferramentas
-
-- Linguagens: `Java`, `Python`, `C++`
-- Frameworks: `React`, `Node.js`, `Next.js`, `Django`
-- Ferramentas: `Git`, `Docker`, `VS Code`, `Postman`
-- Banco de dados: `MySQL`, `PostgreSQL`, `SQLite`
+###  Sobre Mim
+-  Atualmente trabalhando em projetos que misturam tecnologia e criatividade.
+-  Aprendendo mais sobre desenvolvimento, automação e inteligência artificial.
+-  Buscando colaborar em projetos open source e iniciativas educacionais.
 
 ---
 
-- 🔭 Atualmente estou trabalhando em projetos que misturam tecnologia e criatividade.
-- 🌱 Estou aprendendo mais sobre desenvolvimento, inteligência artificial e automação.
-- 👯 Estou buscando colaborar em projetos open source e iniciativas educacionais.
-- 🤔 Preciso de ajuda com integração de APIs e boas práticas de arquitetura de software.
-- 📫 Como me encontrar: [pedroruanoliveiramoura@gmail.com] ou [linkedin.com/in/wooruan]
-- ⚡ Curiosidade divertida: já criei um bot que escreve poemas com base em tweets aleatórios!
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Bancos de Dados:** ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Ferramentas:** 
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-- ### 📚 Atualmente aprendendo
+###  Minhas Estatísticas
 
-- 🧠 Inteligência Artificial e Machine Learning
-- 📱 Desenvolvimento mobile com React Native
-- ☁️ Computação em nuvem com Azure e AWS
-
----
-
-### 🤝 Colaborações e Interesses
-
-- 👯 Aberto a colaborar em projetos open source
-- 🧩 Gosto de resolver problemas complexos com soluções simples
-- 📈 Interesse em projetos de impacto social, educação e acessibilidade
-
----
-
-- ### 📊 Estatísticas do GitHub
-
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wooruan&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooruan&layout=compact&theme=dracula)
-
-
-Sinta-se à vontade para explorar meus repositórios e contribuir. Vamos construir algo incrível juntos 🚀
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=wooruan&theme=highcontrast&hide_border=true" alt="Estatísticas do GitHub de wooruan" />
+</div>
