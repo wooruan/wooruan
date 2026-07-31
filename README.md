@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro Ruan 👋
+# Olá, eu sou o Pedro
 
 Atualmente cursando **Engenharia de Software**. Em busca de aprender coisas novas e melhorar minhas habilidades em desenvolvimento Backend, Frontend, Fullstack e Inteligência Artificial.
 
